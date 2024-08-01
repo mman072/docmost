@@ -58,7 +58,7 @@ export function AppHeader() {
             fw={600}
             style={{ cursor: "pointer", userSelect: "none" }}
           >
-            Docmost
+            TechNote
           </Text>
 
           <Group ml={50} gap={5} className={classes.links} visibleFrom="sm">
